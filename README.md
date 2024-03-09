@@ -1,4 +1,4 @@
-# Patika-dev-2
+# Patika-Odev-2
 PgAdmin üzerinden dvdrental veritabanı kullanılarak, 3 maddeden oluşan ödev için SQL sorgusu yapılmıştır.
 /*film tablosunda bulunan tüm sütunlardaki verileri replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla sıralayınız ( BETWEEN - AND yapısını kullanınız.)*/
 SELECT * FROM film
